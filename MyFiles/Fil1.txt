@@ -1,0 +1,2 @@
+Fil1 text fil är <i class="fa fa-inr
+" aria-hidden="true"></i>
